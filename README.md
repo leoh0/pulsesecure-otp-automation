@@ -135,6 +135,12 @@ $ export SMS_PHONE_NUMBER=+820702222222
 $ /usr/local/bin/vpn.applescript
 ```
 
+## vpn.applescript 에서 본인에 맞는 수정이 필요하다면
+
+[UIElementInspector](https://forum.keyboardmaestro.com/t/os-x-accessibility-inspector-uielementinspector-tool-for-ui-scripting/3443)툴을 받아서 자신의 GUI의 element 구성들을 파악하면 도움이 됩니다.
+
+어떤식으로 이런 메뉴를 자동화 하는지 [이 도큐먼트](https://apple.stackexchange.com/a/311494)를 참고하면 도움이 될것입니다.
+
 ## 마무리
 
 다시 한번 강조하지만 사용하는 환경 마다 상황이 다를 것이기 때문에 **결국 가이드를 보고 진행하더라도 결국 각자 환경에 맞게 임기응변하는 부분들이 아마 크게 필요 할것입니다.**
